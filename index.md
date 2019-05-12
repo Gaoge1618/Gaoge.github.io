@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# 高 歌
 
-You can use the [editor on GitHub](https://github.com/Gaoge1618/Gaoge.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## **联系方式**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **电话:186 2133 0180**
+- **邮箱：gaogelaw@163.com**
 
-### Markdown
+## **教育背景**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+上海对外经贸大学            国际经济法(研究生)           2017.10-2020.03
 
-```markdown
-Syntax highlighted code block
+华东政法大学                   经济法(本科)                      2012.09-2106.06  
 
-# Header 1
-## Header 2
-### Header 3
+## **工作经历**
 
-- Bulleted
-- List
+上海智坚律师事务所                         实习生      2018.10-2019.01/2017.05-2017.10
 
-1. Numbered
-2. List
+1. 在律师的指导下，撰写法律文书、整理案件材料，旁听案件庭审。
+2. 协助律师整理各类指导案例文本。  
 
-**Bold** and _Italic_ and `Code` text
+北京德和衡(上海)律师事务所             实习生     2018.06-2018.09
 
-[Link](url) and ![Image](src)
-```
+1. 协助律师处理诉讼业务及P2P等其他非诉业务。
+2. 合同文本审查、整理案件证据材料、与客户沟通。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+安徽省太和县人民法院民事审判庭    实习生      2013.07-2013.08
 
-### Jekyll Themes
+1. 承担校验庭审笔录和判决书的工作，并处理民事庭有关日常事务
+2. 整理卷宗材料，研究法律文书，接触到大量民事案件。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gaoge1618/Gaoge.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## **获奖经历**  
 
-### Support or Contact
+1. 研究生三等奖学金
+2. 第六届"华政杯"模拟法庭    最佳表现奖
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## **技能证书**
+
+**专业技能：**通过国家司法考试
+
+**语言技能：**大学英语六级
+
+**办公技能：**熟练使用Office办公软件
+
+## **业余爱好**
+
+坚持阅读，擅长篮球、乒乓球、健身等体育运动。
